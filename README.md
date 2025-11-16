@@ -1,6 +1,6 @@
 # 🌱 Smart-Aires  
 ### Estação Inteligente de Monitoramento Ambiental com ESP32 + MQTT  
-**Autor:** Danilo Herbert Silva Pedrosa RA: 10369026
+**Autor:** Danilo Herbert Silva Pedrosa RA: 10369026  
 **Disciplina:** Objetos Inteligentes Conectados – UPM  
 **Ano/semestre:** 2025 / 2 
 
