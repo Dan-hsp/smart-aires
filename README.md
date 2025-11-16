@@ -1,6 +1,6 @@
 # 🌱 Smart-Aires  
 ### Estação Inteligente de Monitoramento Ambiental com ESP32 + MQTT  
-**Autor:** Danilo Herbert Silva Pedrosa  
+**Autor:** Danilo Herbert Silva Pedrosa RA: 10369026
 **Disciplina:** Objetos Inteligentes Conectados – UPM  
 **Ano/semestre:** 2025 / 2 
 
@@ -109,7 +109,7 @@ https://www.hivemq.com/demos/websocket-client/
 smartaires/ambiente
 
 
-### Capturas de Tela
+## Capturas de Tela
 
 As imagens devem ser colocadas na pasta:
 
@@ -143,7 +143,7 @@ Tempos de resposta medidos:
 | 4         | 3.5               | 5.0              |
 | **Média** | **3.4 s**         | **4.8 s**        |
 
-### Prints dos gráficos estão disponíveis no artigo.
+#### Prints dos gráficos estão disponíveis no artigo.
 
 
 ## Observações Técnicas
