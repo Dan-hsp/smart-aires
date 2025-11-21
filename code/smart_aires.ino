@@ -98,7 +98,7 @@ void reconnectMqtt() {
 
 // ====== SETUP / LOOP ======
 unsigned long lastMsg = 0;
-const long intervaloLeitura = 2000; // 5 segundos
+const long intervaloLeitura = 2000; // 2 segundos
 
 void setup() {
   Serial.begin(115200);
