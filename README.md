@@ -129,7 +129,7 @@ Publicações MQTT
 ## Demonstração em Vídeo
 
 Link (YouTube – não listado):
-https://youtu.be/qKS55rGzOxA?si=Uj0MtRKBFYYEARNu
+https://www.youtube.com/watch?v=qKS55rGzOxA
 
 
 ## Resultados
