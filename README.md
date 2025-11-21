@@ -111,19 +111,9 @@ smartaires/ambiente
 
 ## Capturas de Tela
 
-As imagens devem ser colocadas na pasta:
+As imagens podem ser encontradas na pasta:
 
 /images
-
-E referenciadas assim:
-
-LED Verde – Ar Bom
-
-LED Amarelo – Ar Moderado
-
-LED Vermelho – Ar Crítico
-
-Publicações MQTT
 
 
 ## Demonstração em Vídeo
